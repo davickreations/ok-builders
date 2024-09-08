@@ -55,7 +55,8 @@
         <nav class="nav container">
             <a href="#" class="logo">
                 <img src="assets/image/logo-ok.png" alt="Ok-Builders">
-                <span>O.K Builders</span>
+                <span>O&amp;K Builders</span>
+                
             </a>
 
             <div class="nav-menu" id="nav-menu">

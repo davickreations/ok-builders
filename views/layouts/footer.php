@@ -3,11 +3,11 @@
             <div>
                 <a href="#" class="footer-logo">
                     <img src="assets/image/logo-ok.png" alt="Ok-Builders">
-                    <span>O.K Builders</span>
+                    <span>O&amp;K Builders</span>
                 </a>
 
                 <p class="footer-description">
-                    O.K Builders specializes in turning your <br> vision into reality with expertise in <br> residential and
+                    O&amp;K Builders specializes in turning your <br> vision into reality with expertise in <br> residential and
                     commercial construction.
                 </p>
             </div>
@@ -60,7 +60,7 @@
         </div>
 
         <span class="footer-copy">
-            &#169;<p id="currentYear"></p> O.K Builders. All rights reserved. <br> Developed by <a href="https://www.instagram.com/cloudlytespace/" target="_blank">CloudlyteSpace Technologies</a>.
+            &#169;<p id="currentYear"></p> O &amp; K Builders. All rights reserved. <br> Developed by <a href="https://www.instagram.com/cloudlytespace/" target="_blank">CloudlyteSpace Technologies</a>.
         </span>
 
     </footer>

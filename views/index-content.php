@@ -12,7 +12,7 @@
                 </h1>
 
                 <p class="home-description">
-                    At OK Builders, we offer innovative and practical solutions for all your building design
+                    At O&amp;K Builders, we offer innovative and practical solutions for all your building design
                     needs. Our expert team transforms your vision into reality with precision and excellence.
                 </p>
 
@@ -46,13 +46,13 @@
 <section class="about section" id="about">
     <div class="about-container container grid">
         <div class="about-data">
-            <span class="section_subtitle">ABOUT O.K BUILDERS</span>
+            <span class="section_subtitle">ABOUT O&amp;K BUILDERS</span>
             <h2 class="section_title">
                 Crafting Excellence in <br> Every Project
             </h2>
 
 
-            <p class="about-description">At OK Builders, we blend innovation with craftsmanship to bring your
+            <p class="about-description">At O&amp;K Builders, we blend innovation with craftsmanship to bring your
                 building designs to life. Our experienced team ensures every project is executed with precision
                 and care.</p>
 
@@ -99,7 +99,7 @@
                 <h2 class="section_title">Expert Services for Every Stage of Your Project</h2>
             </div>
 
-            <p class="services-description">OK Builders offers a wide range of services to meet all your
+            <p class="services-description">O&amp;K Builders offers a wide range of services to meet all your
                 construction and design needs. From initial planning to the final touches, we handle every
                 aspect of your project with expertise and dedication."</p>
 
